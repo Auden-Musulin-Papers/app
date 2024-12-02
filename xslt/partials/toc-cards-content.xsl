@@ -221,8 +221,8 @@
     </xsl:template>
     <xsl:template name="cover">
         <xsl:param name="facs_item"/>
-        <xsl:variable name="iiif-ext" select="'.jp2/full/,400/0/default.jpg'"/>
-        <xsl:variable name="iiif-domain" select="'https://iiif.acdh.oeaw.ac.at/iiif/images/amp/'"/>
+        <xsl:variable name="iiif-ext" select="'.tif?format=iiif&amp;param=full/,400/0/default.png'"/>
+        <xsl:variable name="iiif-domain" select="'https://id.acdh.oeaw.ac.at/auden-musulin-papers/'"/>
         <div class="text-center">
             <div class="loader-toc"></div>
         </div>

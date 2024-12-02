@@ -63,6 +63,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      # - name: Build Typesense Index (deprecated)
+      # - name: Build Typesense Index (deprecated see Auden-Musulin-Papers/amp-search-indexer typesense build)
       #   run: |
       #     python ./build_app/python/make_ts_index.py
