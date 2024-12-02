@@ -314,7 +314,7 @@ var editor = new LoadEditor({
     pag_tab: ".pagination-tab.tab-pane",
     img_size: "800px",
     url: "https://id.acdh.oeaw.ac.at/auden-musulin-papers/",
-    url_param: "?format=iiif",
+    url_param: ".tif?format=iiif",
     osd_target: "container",
     img_source: "container2",
     img_types: [
@@ -347,7 +347,7 @@ var editor = new LoadEditor({
     inactive_class: "fade",
     bootstrap_class: "show",
     url: "https://id.acdh.oeaw.ac.at/auden-musulin-papers/",
-    url_param: "?format=iiif",
+    url_param: ".tif?format=iiif",
     osd_target: "container",
     img_source: "container2",
   },
