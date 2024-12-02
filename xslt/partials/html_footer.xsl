@@ -110,11 +110,6 @@
                                             </a>
                                         </div>
                                         <div class="custom-html-widget col-4">
-                                            <a id="twitter-logo" title="Auden Musulin on Twitter" href="https://twitter.com/amp_oeaw" class="nav-link" target="_blank">
-                                                <img class="card-img-right flex-auto d-md-block h-auto" style="max-width: 32px;" title="2021 Twitter Logo Blue" alt="2021 Twitter Logo Blue" src="images/x-logo-black.png"></img>
-                                            </a>
-                                        </div>
-                                        <div class="custom-html-widget col-4">
                                             <a id="mastodon-logo" rel="me" href="https://fedihum.org/@AMP_OeAW" class="nav-link" target="_blank">
                                                 <img class="card-img-right flex-auto d-md-block h-auto" style="max-width: 32px;" title="2023 Mastodon Logo" alt="2023 Mastodon Logo" src="images/Mastodon_Logotype.svg"></img>
                                             </a>
